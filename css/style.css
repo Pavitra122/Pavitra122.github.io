@@ -67,6 +67,7 @@ h3{
   float: left;
   border-width: thick:
   border-color: black;
+  min-width: 550px;
 }
 .contain{
   padding-bottom: 150px;
